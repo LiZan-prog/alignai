@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowUpRight, CheckCircle, FileText, Target, Zap } from 'lucide-react';
 
-export default function AlignAILanding() {
+export default function Home() {
   return (
     <div className="min-h-screen bg-[#040F49] text-white font-sans selection:bg-[#22D3EE] selection:text-[#040F49]">
       {/* Navigation */}
