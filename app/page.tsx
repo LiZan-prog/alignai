@@ -39,7 +39,7 @@ export default function Home() {
               Optimize My CV for Free
             </button>
             <button className="bg-white/10 backdrop-blur-md border border-white/10 px-8 py-4 rounded-xl font-bold text-lg hover:bg-white/20 transition-all">
-              View Sample
+              View Sample 
             </button>
           </div>
         </div>
